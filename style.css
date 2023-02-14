@@ -9,7 +9,7 @@ body {
     width: 200px;
     border-radius: 50%;
     border: 3px solid #ee5c87 ;
-    background: url(images/cake.png) center center / cover;
+    background: url('images/cake.png') center center / cover;
     margin-top: 30px;
 }
 
