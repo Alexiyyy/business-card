@@ -1,0 +1,90 @@
+body {
+    background:linear-gradient(90deg, #f598a8, #f6edb2);
+    font-size: 50px;
+    padding: 100px 0;
+}
+
+.userpic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid #ee5c87 ;
+    background: url(images/cake.png) center center / cover;
+    margin-top: 30px;
+}
+
+.title {
+    color: #ee5c87;
+    font-family: 'Pacifico', cursive;
+    margin: 40px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #f1779c;
+    margin-bottom: 60px;
+    font-size: 40px;
+}
+
+
+.conteiner {
+    width: 500px;
+    min-height: 550px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0 auto;
+    background: linear-gradient(200deg, #faf0cd, #fab397);
+    position: relative;
+}
+
+.header {
+     display: flex;
+     flex-direction: column; 
+     align-items: center;
+     justify-content: center;
+}
+
+.footer {
+    margin-top: 0px;
+    width: 100%;
+    height: 50px;
+    border-top: 4px solid #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.footer__media li {
+    display: inline-flex;
+    margin: 20px -20px 0px 0px;
+}
+
+.footer__media img{
+    max-height: 45px;       
+}
+
+.vk {
+
+}
+
+.youtube {
+
+}
+
+.telegram {
+
+}
+
+.pinterest {
+
+}
+
+.twitter {
+
+}
+
+.instagram {
+
+}
+
+.facebook {
+
+}
